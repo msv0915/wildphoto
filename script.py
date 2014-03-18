@@ -1,3 +1,4 @@
+change made
 # Camera trap script
 #All rights reserved
 
