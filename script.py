@@ -9,5 +9,8 @@ Make table
 
 Make header bold
 
-Make small figure, red line
+Make small figure, red line and blue line
+
+Put in appropriate axes
+
 
